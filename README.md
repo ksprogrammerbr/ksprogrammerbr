@@ -22,8 +22,11 @@ github-readme-stats-seven-rouge-20.vercel.app
 github-readme-stats-git-master-ksprogrammerbrs-projects.vercel.app
 github-readme-stats-5vux36ych-ksprogrammerbrs-projects.vercel.app
 
-![GitHub Stats](https://github-readme-stats-seven-rouge-20.vercel.app/api?username=ksprogrammer&show_icons=true&theme=dracula&hide_border=true&hide=issues&custom_title=KsProgrammer's%20GitHub%20Stats&count_private=true&include_all_commits=true)
-![Linguagens Mais Usadas](https://github-readme-stats-seven-rouge-20.vercel.app/api/top-langs?username=ksprogrammer&layout=compact&langs_count=8&theme=draculahide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksprogrammer&show_icons=true&theme=onedark&hide_border=true&hide=issues&custom_title=KsProgrammer's%20GitHub%20Stats&count_private=true&include_all_commits=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs?username=ksprogrammer&layout=compact&langs_count=8&theme=gruvbox&hide_border=true)
+
+
 
 <div style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="Rafa-Js" />
