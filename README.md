@@ -18,8 +18,10 @@ Construir uma carreira sólida no mundo da tecnologia, unindo minha experiência
 ## 📩 Entre em contato  
 ksprogrammerbr@gmail.com 
 
-![GitHub Stats](https://<github-readme-stats-eu5zwjv3g-ksprogrammerbrs-projects.vercel.app>/api?username=ksprogrammerbr)
-![Linguagens Mais Usadas](https://<your-deployed-url>/api/top-langs?username=ksprogrammerbr)
-![GitHub Stats](https://<your-deployed-url>/api?username=ksprogrammerbr&show_icons=true&theme=dark)
+
+https://<your-deployed-url>/api?username=ksprogrammerbr
+https://<your-deployed-url>/api/top-langs?username=ksprogrammerbr
+https://github-readme-streak-stats.herokuapp.com/?user=ksprogrammerbr
+
 
 
