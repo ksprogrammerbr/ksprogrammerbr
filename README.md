@@ -18,6 +18,8 @@ Construir uma carreira sólida no mundo da tecnologia, unindo minha experiência
 ## 📩 Entre em contato  
 ksprogrammerbr@gmail.com 
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 github-readme-stats-seven-rouge-20.vercel.app
 github-readme-stats-git-master-ksprogrammerbrs-projects.vercel.app
 github-readme-stats-5vux36ych-ksprogrammerbrs-projects.vercel.app
