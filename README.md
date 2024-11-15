@@ -1,4 +1,4 @@
-# 👋 Olá! Sou Ks Programmer  
+# 👋 Olá! Sou Ks Programmer <img src="https://i.imgur.com/8rjMGJN.gif" width="150" />
 
 💻 *Desenvolvedora em formação*, finalizando o curso em **Análise e Desenvolvimento de Sistemas** em *dezembro de 2024*.  
 
