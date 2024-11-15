@@ -19,8 +19,10 @@ Construir uma carreira sólida no mundo da tecnologia, unindo minha experiência
 ksprogrammerbr@gmail.com 
 
 
-github-readme-stats-seven-rouge-20.vercel.app
-github-readme-stats-git-master-ksprogrammerbrs-projects.vercel.app
+![GitHub Stats](https://github-readme-stats-seven-rouge-20.vercel.app/api?username=ksprogrammer)
+![Linguagens Mais Usadas](https://github-readme-stats-seven-rouge-20.vercel.app/api/top-langs?username=ksprogrammer)
+![GitHub Stats](https://github-readme-stats-seven-rouge-20.vercel.app/api?username=ksprogrammer&show_icons=true&theme=dark)
+
 
 
 
