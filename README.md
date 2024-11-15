@@ -19,9 +19,9 @@ Construir uma carreira sólida no mundo da tecnologia, unindo minha experiência
 ksprogrammerbr@gmail.com 
 
 
-https://<your-deployed-url>/api?username=ksprogrammerbr
-https://<your-deployed-url>/api/top-langs?username=ksprogrammerbr
-https://github-readme-streak-stats.herokuapp.com/?user=ksprogrammerbr
+github-readme-stats-seven-rouge-20.vercel.app
+github-readme-stats-git-master-ksprogrammerbrs-projects.vercel.app
+
 
 
 
