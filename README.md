@@ -38,6 +38,11 @@ github-readme-stats-5vux36ych-ksprogrammerbrs-projects.vercel.app
   <img src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif" width="40" height="40" alt="Rafa-yoda" />
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
