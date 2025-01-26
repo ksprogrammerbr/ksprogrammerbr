@@ -1,11 +1,11 @@
 # 👋 Olá! Sou Ks Programmer <img src="https://i.imgur.com/8rjMGJN.gif" width="150" />
 
-💻 *Desenvolvedora em formação*, finalizando o curso em **Análise e Desenvolvimento de Sistemas** em *dezembro de 2024*.  
+💻 *Desenvolvedora Web*, graduada em **Análise e Desenvolvimento de Sistemas**.  
 
-🚀 Sou *apaixonada por tecnologia* e por criar soluções inovadoras que simplificam o dia a dia. Atualmente, estou explorando e aplicando conhecimentos em **Java**, **JavaScript** e **React.js**, com foco em *Node.js*, *interfaces dinâmicas no frontend* e *boas práticas de desenvolvimento* no backend.  
+🚀 Sou *apaixonada por tecnologia* e por criar soluções inovadoras que simplificam o dia a dia. Atualmente, estou explorando e aplicando conhecimentos em **Java**, **JavaScript** **Python** e **React.js**, com foco em *Node.js*, *interfaces dinâmicas no frontend* e *boas práticas de desenvolvimento* no backend.  
 
 ## 📈 Experiência Profissional  
-Tenho um sólido histórico em áreas como **Contas a Receber**, **Faturamento** e **Análise de Dados**, com forte ênfase na *otimização de processos financeiros* e em alcançar resultados organizados e eficientes.  
+Tenho um sólido histórico na área  **Financeira**, com ênfase em **Análise de Dados**, com foco em *otimização de processos financeiros* e em alcançar resultados organizados e eficientes.  
 
 ## 🌍 Principais Habilidades  
 - **Desenvolvimento Web** (*Node.js*, *APIs RESTful*)  
