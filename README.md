@@ -19,8 +19,6 @@
 
 ## 🚀 Tecnologias e Ferramentas Essenciais  
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/Imagem%201.png">
-
 
 ### 🔹 Fundamentos  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"> [Git](https://git-scm.com/) → Controle de versão.  
