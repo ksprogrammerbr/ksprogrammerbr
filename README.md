@@ -19,8 +19,7 @@
 
 ## 🚀 Tecnologias e Ferramentas Essenciais  
 
-
-<img align="right" width="200" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/Imagem%201.png">
+<img align="right" width="500" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/Imagem%201.png">
 
 
 ### 🔹 Fundamentos  
@@ -28,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"> [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) → Estrutura das páginas web.  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"> [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) → Estilização das páginas web.  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) → Linguagem principal do desenvolvimento web.  
+
 
 ### 🔹 Front-end  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"> [React.js](https://react.dev/) → Biblioteca para interfaces interativas.  
@@ -49,6 +49,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"> [Linux](https://ubuntu.com/) → Sistema operacional amplamente usado em servidores.  
 
 ---
+
+<div align="center" >
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGloOHhiOWQ4dzRoMmYyNWxseGgwd2NiZTU0a211aDFveTQycnhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+</div>
+
+
 
 ## ⚡ GitHub Stats  
 
