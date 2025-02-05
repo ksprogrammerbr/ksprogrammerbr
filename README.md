@@ -69,6 +69,11 @@
   </tr>
 </table>
 
+
+<div align="center" >
+  <img src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/study.gif">
+</div>
+
 ---
 
 ## 📫 Contatos 
@@ -82,9 +87,11 @@
   <a href="https://www.linkedin.com/in/karina-ara%C3%BAjo-49a2681b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-<div style="width: 150; height: 150; border: 2 solid red; display: flex; align-items: center; justify-content: center;">
-    <img align="right" src="https://i.imgur.com/8rjMGJN.gif" width="150" />
-  </div>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
