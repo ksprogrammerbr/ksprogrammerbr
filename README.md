@@ -60,15 +60,24 @@
 
 <div align="center">
   <a href="https://github.com/ksprogrammerbr">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksprogrammerbr&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ksprogrammerbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ksprogrammerbr&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FF66B2&text_color=ADD8E6&icon_color=FF66B2"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksprogrammerbr&layout=compact&langs_count=7&bg_color=00000000&title_color=FF66B2&text_color=ADD8E6"/>
   </a>
 </div>
+
 
 
 <div align="center" >
   <img src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/study.gif">
 </div>
+
+
+## 🏆 Troféus do GitHub  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksprogrammerbr&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15"/>
+</div>
+
 
 ---
 
