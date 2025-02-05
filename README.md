@@ -1,10 +1,19 @@
 # ✨ Olá, sou KsProgrammer! ✨
 
+<img align="right" width="180" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/Imagem%202.png">
+
+
 🎓 **Formação**: Graduada em **Análise e Desenvolvimento de Sistemas**  
 🌱 **Tecnologias**: Explorando o mundo **Full-Stack**, com interesse especial em **desenvolvimento web** e criação de **aplicações que facilitam o dia a dia**  
 📊 **Experiência Profissional**: Atuação no setor financeiro, com foco em **Contas a Receber, Automação com Macros e Análise de Dados**  
 🚀 **Objetivo**: Integrar **tecnologia ao setor financeiro**, desenvolvendo **aplicações e apps** para otimizar processos e tornar decisões mais estratégicas  
 💡 **Curiosidade**: Também sou formada em **Estética e Cosmetologia**! 😄  
+
+---
+
+## 🌱 Estou Aprendendo  
+
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" height="50" /> </div>
 
 ---
 
@@ -55,15 +64,20 @@
 
 ---
 
-## 📫 Contatos
+## 📫 Contatos 
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100">
+
 <div>
   <a href="https://www.youtube.com/@FuturoEmFocoHub" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:ksprogrammerbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/karina-ara%C3%BAjo-49a2681b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/ksprogrammerbr/ksprogrammerbr/refs/heads/main/Imagem%202.png">
+<div style="width: 150; height: 150; border: 2 solid red; display: flex; align-items: center; justify-content: center;">
+    <img align="right" src="https://i.imgur.com/8rjMGJN.gif" width="150" />
+  </div>
+</div>
 
-
----
 
