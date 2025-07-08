@@ -1,22 +1,25 @@
-<h1 align="center">Olá! Eu sou a Karina Araújo ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=9226B0&center=true&vCenter=true&width=500&height=50&lines=Olá%2C+eu+sou+a+Karina+Araújo+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/banner.jpg" alt="banner personalizado" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/UH5nbeM.png" alt="Banner Karina Araújo" width="100%" />
+</p>
 
 ---
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 **Formação:** Graduada em Análise e Desenvolvimento de Sistemas
-- 🌱 **Tecnologias:** Explorando o mundo Full-Stack, com interesse especial em desenvolvimento web e criação de aplicações que facilitam o dia a dia
-- 📊 **Experiência Profissional:** Atuação no setor financeiro, com foco em Contas a Receber, Automação com Macros e Análise de Dados
-- 🚀 **Objetivo:** Integrar tecnologia ao setor financeiro, desenvolvendo aplicações e apps para otimizar processos e tornar decisões mais estratégicas
+- 🎓 **Formação:** Graduada em Análise e Desenvolvimento de Sistemas  
+- 🌱 **Tecnologias:** Explorando o mundo Full-Stack, com interesse especial em desenvolvimento web e criação de aplicações que facilitam o dia a dia  
+- 📊 **Experiência Profissional:** Atuação no setor financeiro, com foco em Contas a Receber, Automação com Macros e Análise de Dados  
+- 🚀 **Objetivo:** Integrar tecnologia ao setor financeiro, desenvolvendo aplicações e apps para otimizar processos e tornar decisões mais estratégicas  
 - 💡 **Curiosidade:** Também sou formada em Estética e Cosmetologia! 😄
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
+
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
