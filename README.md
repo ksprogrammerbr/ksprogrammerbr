@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/UH5nbeM.png" alt="Banner Karina Araújo" width="100%" />
+  <img src="" alt="Banner Karina Araújo" width="100%" />
 </p>
 
 ---
@@ -34,20 +34,20 @@
 
 ---
 
-### 🌐 Redes Sociais
+### 🌐 Social Media
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=orange)](https://seuportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=orange)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
 
 ---
 
-### 📈 Minhas Estatísticas
+### 📊 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KsProgrammer&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KsProgrammer&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KsProgrammer&hide_title=true&hide_rank=true&show_icons=false&hide=prs,issues,contribs&custom_title=Total%20Contributions&theme=tokyonight" width="280px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KsProgrammer&theme=tokyonight" width="380px"/>
+</p>
 
 ---
 
