@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About
 
-- 🎓 **Formação:** Graduada em Análise e Desenvolvimento de Sistemas  
+- 🎓 **Formação:** Graduada em Análise e Desenvolvimento de Sistemas, Pós-graduanda em Engenharia de Software
 - 🌱 **Tecnologias:** Explorando o mundo Full-Stack, com interesse especial em desenvolvimento web e criação de aplicações que facilitam o dia a dia  
 - 📊 **Experiência Profissional:** Atuação no setor financeiro, com foco em Contas a Receber, Automação com Macros e Análise de Dados  
 - 🚀 **Objetivo:** Integrar tecnologia ao setor financeiro, desenvolvendo aplicações e apps para otimizar processos e tornar decisões mais estratégicas  
@@ -38,7 +38,7 @@
 ### 🌐 Social Media
 
 [![Gmail](https://img.shields.io/badge/Gmail-9226B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksprogrammerbr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=9226B0)](https://seuportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=9226B0)](https://rkssolution.com.br/#portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-araujo-fintech/)
 
 ---
